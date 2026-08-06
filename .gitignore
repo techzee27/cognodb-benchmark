@@ -28,7 +28,7 @@ dist/
 # Benchmark Data & Results
 data/*.csv
 results/*.json
-docs/charts/
+
 
 # OS & System Files
 .DS_Store
