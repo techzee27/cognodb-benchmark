@@ -537,7 +537,7 @@ During this benchmark, I evaluated each managed graph database not only on query
 | Database | Overall Experience | User Interface | Performance |
 | :--- | :--- | :--- | :--- |
 | **Neo4j AuraDB Free** | ⭐⭐⭐⭐⭐ Excellent – very smooth setup and development experience. | Very user-friendly and intuitive. | Good and consistent for benchmark workloads. |
-| **CognoDB** | ⭐⭐⭐⭐ Good – straightforward to use with minimal friction. | User-friendly and easy to navigate. | Good overall performance. |
+| **CognoDB** | ⭐⭐⭐⭐⭐ Excellent – straightforward to use with minimal friction. | User-friendly and easy to navigate. | Good overall performance. |
 | **ArangoDB Oasis** | ⭐⭐⭐ Okay – setup was manageable but required more effort than others. | Not as user-friendly; the interface has a steeper learning curve. | Excellent performance throughout the benchmarks. |
 | **Memgraph Cloud** | ⭐⭐⭐ Okay – decent overall experience. | Clean and functional UI with an optimal workflow. | Good performance with stable execution. |
 | **FalkorDB Cloud** | ⭐⭐ Below average – I encountered more friction during setup and usage compared to the other platforms. | Good interface overall. | Slower execution than the other databases in my benchmark. |
