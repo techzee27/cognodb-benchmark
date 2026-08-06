@@ -15,6 +15,12 @@
 
 An automated, reproducible, and objective benchmarking suite evaluating **CognoDB Cloud** against industry-standard managed graph database engines (**Neo4j AuraDB**, **ArangoDB Oasis**, **Memgraph Cloud**, and **FalkorDB Cloud**) under standardized workload profiles and free-tier infrastructure constraints.
 
+> [!TIP]
+> 🚀 **Direct Access to Empirical Benchmark Metrics & Results**:
+> * 📊 **[Jump Directly to Benchmark Results & Raw Matrix](#benchmark-results--raw-matrix)**
+> * 📄 **[View Auto-Generated Matrix (`docs/results_matrix.md`)](docs/results_matrix.md)**
+> * 📈 **[View Performance Charts & Visualizations](#performance-charts--visualizations)**
+
 ---
 
 ## Table of Contents
