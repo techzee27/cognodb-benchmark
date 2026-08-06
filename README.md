@@ -1,8 +1,15 @@
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Benchmark](https://img.shields.io/badge/Benchmark-Suite-orange.svg)](#benchmark-results)
-[![Graph Databases](https://img.shields.io/badge/Graph_Databases-CognoDB%20%7C%20Neo4j%20%7C%20ArangoDB%20%7C%20Memgraph%20%7C%20FalkorDB-purple.svg)](#databases-benchmarked)
-[![Markdown](https://img.shields.io/badge/Documentation-Markdown-lightgrey.svg)](#table-of-contents)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge)
+![Benchmark Suite](https://img.shields.io/badge/Benchmark-Suite-FF6F00?style=for-the-badge&logo=speedtest&logoColor=white)
+![Documentation](https://img.shields.io/badge/Docs-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+#### Benchmarked Engines
+![CognoDB Cloud](https://img.shields.io/badge/CognoDB_Cloud-6C5CE7?style=for-the-badge&logo=database&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-DDB030?style=for-the-badge&logo=arangodb&logoColor=white)
+![Memgraph](https://img.shields.io/badge/Memgraph-CB2027?style=for-the-badge&logo=memgraph&logoColor=white)
+![FalkorDB](https://img.shields.io/badge/FalkorDB-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+
 
 # CognoDB Multi-Platform Graph Database Benchmark Suite
 
