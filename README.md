@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" height="36" alt="Python 3.10+" /></a>
-  <img src="https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge" height="36" alt="License MIT" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge" height="36" alt="License MIT" /></a>
   <a href="#benchmark-results--raw-matrix"><img src="https://img.shields.io/badge/Benchmark-Suite-FF6F00?style=for-the-badge&logo=speedtest&logoColor=white" height="36" alt="Benchmark Suite" /></a>
   <a href="#table-of-contents"><img src="https://img.shields.io/badge/Docs-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="36" alt="Documentation" /></a>
 </p>
@@ -8,11 +8,11 @@
 ### Benchmarked Engines
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CognoDB_Cloud-6C5CE7?style=for-the-badge&logo=database&logoColor=white" height="36" alt="CognoDB Cloud" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="36" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/ArangoDB-DDB030?style=for-the-badge&logo=arangodb&logoColor=white" height="36" alt="ArangoDB" />
-  <img src="https://img.shields.io/badge/Memgraph-CB2027?style=for-the-badge&logo=memgraph&logoColor=white" height="36" alt="Memgraph" />
-  <img src="https://img.shields.io/badge/FalkorDB-FF4438?style=for-the-badge&logo=redis&logoColor=white" height="36" alt="FalkorDB" />
+  <a href="https://cognodb.cloud/"><img src="https://img.shields.io/badge/CognoDB_Cloud-6C5CE7?style=for-the-badge&logo=database&logoColor=white" height="36" alt="CognoDB Cloud" /></a>
+  <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="36" alt="Neo4j" /></a>
+  <a href="https://www.arangodb.com/"><img src="https://img.shields.io/badge/ArangoDB-DDB030?style=for-the-badge&logo=arangodb&logoColor=white" height="36" alt="ArangoDB" /></a>
+  <a href="https://memgraph.com/"><img src="https://img.shields.io/badge/Memgraph-CB2027?style=for-the-badge&logo=memgraph&logoColor=white" height="36" alt="Memgraph" /></a>
+  <a href="https://www.falkordb.com/"><img src="https://img.shields.io/badge/FalkorDB-FF4438?style=for-the-badge&logo=redis&logoColor=white" height="36" alt="FalkorDB" /></a>
 </p>
 
 # CognoDB Multi-Platform Graph Database Benchmark Suite
