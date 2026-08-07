@@ -8,7 +8,7 @@
 ### Benchmarked Engines
 
 <p align="left">
-  <a href="https://cognodb.cloud/"><img src="https://img.shields.io/badge/CognoDB_Cloud-6C5CE7?style=for-the-badge&logo=database&logoColor=white" height="36" alt="CognoDB Cloud" /></a>
+  <a href="https://console.cognodb.com/login"><img src="https://img.shields.io/badge/CognoDB_Cloud-6C5CE7?style=for-the-badge&logo=database&logoColor=white" height="36" alt="CognoDB Cloud" /></a>
   <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="36" alt="Neo4j" /></a>
   <a href="https://www.arangodb.com/"><img src="https://img.shields.io/badge/ArangoDB-DDB030?style=for-the-badge&logo=arangodb&logoColor=white" height="36" alt="ArangoDB" /></a>
   <a href="https://memgraph.com/"><img src="https://img.shields.io/badge/Memgraph-CB2027?style=for-the-badge&logo=memgraph&logoColor=white" height="36" alt="Memgraph" /></a>
